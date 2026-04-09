@@ -16,3 +16,5 @@ Una vez tengas el perfil y tu primer repositorio creado realiza la entrega.
 
 ## Entregable
 Enlace a tu perfil de Github
+
+20260409: course activity
